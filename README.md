@@ -5,4 +5,5 @@
 - 
 
 ### Blogs
+- http://explained.ai/
 
