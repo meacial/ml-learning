@@ -7,3 +7,6 @@
 ### Blogs
 - http://explained.ai/
 
+### algorithm
+* http://blog.jobbole.com/100349/
+
